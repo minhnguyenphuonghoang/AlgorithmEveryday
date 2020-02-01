@@ -28,5 +28,5 @@ All algorithms including:
 
 | Day  | Task | Type | From | remarks/notes |
 | --- | --- | --- | --- | --- |
-| 1 | Revert a string | String interaction | AlgoDaily | Good start aw yeah |
+| 1 | [Revert a string](/EverydayCoding/revert_a_string.py) | String interaction | AlgoDaily | Good start aw yeah |
 | 2 | 
