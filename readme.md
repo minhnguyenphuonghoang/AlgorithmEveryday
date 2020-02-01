@@ -26,6 +26,7 @@ All algorithms including:
 
 #### Started since January 31, 2020 (a no salary day)
 
-| Day  | Task | Type | From | remarks |
+| Day  | Task | Type | From | remarks/notes |
 | --- | --- | --- | --- | --- |
-| 1 |
+| 1 | Revert a string | String interaction | AlgoDaily | Good start aw yeah |
+| 2 | 
