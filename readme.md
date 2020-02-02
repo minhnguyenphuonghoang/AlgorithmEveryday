@@ -26,7 +26,11 @@ All algorithms including:
 
 #### Started since January 31, 2020 (a no salary day)
 
-| Day  | Task | Type | From | remarks/notes |
-| --- | --- | --- | --- | --- |
-| 1 | [Revert a string](/EverydayCoding/revert_a_string.py) | String interaction | AlgoDaily | Good start aw yeah |
-| 2 | 
+| Day  | Task  | From | remarks/notes |
+| --- | --- | --- | --- |
+| 1 | [Revert a string](/EverydayCoding/0001_revert_a_string.py) | AlgoDaily | Good start aw yeah |
+| 2 | [Validate Palindrome](/EverydayCoding/0002_validate_palindrome.py) | AlgoDaily | I have a better solution! | 
+| 3 | 
+
+
+
