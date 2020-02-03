@@ -34,7 +34,12 @@ All algorithms including:
 | 4 | [Fizz Buzz](/EverydayCoding/0004_fizz_buzz.py) | AlgoDaily | Recursive... bad idea! |
 | 5 | [Revert Only Alphabetical](/EverydayCoding/0005_revert_only_alphabetical.py) | AlgoDaily | Again, just one solution. Will think about this later|
 | 6 | [Array Intersection](/EverydayCoding/0006_array_intersection.py) | AlgoDaily | So many solutions. |
-| 7 | 
+| 7 | [Is An Anagram](/EverydayCoding/0007_is_an_anagram.py) | AlgoDaily |  | 
+| 8 | [](/EverydayCoding/0007_is_an_anagram.py) |  |  | 
+
+
+
+
 
 
 
