@@ -35,7 +35,9 @@ All algorithms including:
 | 5 | [Revert Only Alphabetical](/EverydayCoding/0005_revert_only_alphabetical.py) | AlgoDaily | Again, just one solution. Will think about this later|
 | 6 | [Array Intersection](/EverydayCoding/0006_array_intersection.py) | AlgoDaily | So many solutions. |
 | 7 | [Is An Anagram](/EverydayCoding/0007_is_an_anagram.py) | AlgoDaily |  | 
-| 8 | [](/EverydayCoding/0007_is_an_anagram.py) |  |  | 
+| 8 | [Majority Element](/EverydayCoding/0008_majority_element.py) | AlgoDaily |  | 
+| 9 | [Power Of Three](/EverydayCoding/0009_power_of_three.py) | AlgoDaily |  | 
+| 10 | [Sum Digits Until One](/EverydayCoding/0010_sum_digits_until_one.py) | AlgoDaily |  | 
 
 
 
