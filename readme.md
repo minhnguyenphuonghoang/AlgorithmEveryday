@@ -38,6 +38,7 @@ All algorithms including:
 | 8 | [Majority Element](/EverydayCoding/0008_majority_element.py) | AlgoDaily |  | 
 | 9 | [Power Of Three](/EverydayCoding/0009_power_of_three.py) | AlgoDaily |  | 
 | 10 | [Sum Digits Until One](/EverydayCoding/0010_sum_digits_until_one.py) | AlgoDaily |  | 
+| 11 | [Lonely Number](/EverydayCoding/0011_lonely_number.py) | AlgoDaily |  | 
 
 
 

@@ -87,7 +87,7 @@ for i in range(len(tests)):
         result = eval("solution_0{}".format(sln_idx))(tests[i])
         elapse_time = benchmark_util.get_elapse_time(curr_time)
         # debug:
-        print("SOLUTION: {} took {} nanoseconds to finish test '{}'.".format(sln_idx, elapse_time, tests[i]))
+        print("SOLUTION: {} took {} nanoseconds to finish test.".format(sln_idx, elapse_time))
 
         assert result == results[i], \
             "Solution {} with test '{}' had wrong result '{}' - expecting '{}'".format("solution_0{}".format(sln_idx),
