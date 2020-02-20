@@ -2,7 +2,7 @@ from BenchmarkUtil import benchmark_util
 """Can you write a function that takes two arrays as inputs and returns to us their intersection? 
 Let's return the intersection in the form of an array.
 """
-NO_OF_SOLUTION = 3
+NO_OF_SOLUTION = 5
 
 
 def solution_01(kwargs):
@@ -18,6 +18,12 @@ def solution_01(kwargs):
 
 
 def solution_02(kwargs):
+    arr1 = kwargs.get("arr1", [])
+    arr2 = kwargs.get("arr2", [])
+    return [number for number in arr1 if number in arr2]
+
+
+def solution_03(kwargs):
     arr1 = kwargs.get("arr1", [])
     arr2 = kwargs.get("arr2", [])
     intersect_arr = []
@@ -36,7 +42,7 @@ def solution_02(kwargs):
     return intersect_arr
 
 
-def solution_03(kwargs):
+def solution_04(kwargs):
     arr1 = kwargs.get("arr1", [])
     arr2 = kwargs.get("arr2", [])
     intersect_list = list(set(arr1) & set(arr2))
@@ -44,8 +50,16 @@ def solution_03(kwargs):
     return intersect_list
 
 
+def solution_05(kwargs):
+    arr1 = kwargs.get("arr1", [])
+    arr2 = kwargs.get("arr2", [])
+    intersect = list(set(arr1).intersection(arr2))
+    intersect.sort()
+    return intersect
+
+
 tests = [{"arr1": [1, 2, 3, 4, 5], "arr2": [2, 4]},
-         {"arr1": [1, 2, 2, 3, 4, 3, 5, 1], "arr2": [2, 4]},
+         {"arr1": [1, 2, 3, 4, 3, 5, 1], "arr2": [2, 4]},
          {"arr1": range(1000), "arr2": [100, 900, 1000]},
          {"arr1": range(10000), "arr2": range(9000, 9999, 300)}]
 results = [[2, 4], [2, 4], [100, 900], [9000, 9300, 9600, 9900]]
