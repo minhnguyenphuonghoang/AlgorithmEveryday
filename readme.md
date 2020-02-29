@@ -41,6 +41,8 @@ All algorithms including:
 | 11 | [Lonely Number](/EverydayCoding/0011_lonely_number.py) | AlgoDaily |  |  
 | 12 | [Swap Every Two Nodes In A Linked List](/EverydayCoding/0012_swap_every_two_nodes_in_a_linked_list.py) | AlgoDaily |  | 
 | 13 | [How Out Of Order](/EverydayCoding/0013_how_out_of_order.py) | AlgoDaily |  | 
+| 14 | [Max Of Min Pairs](/EverydayCoding/0014_max_of_min_pairs.py) | AlgoDaily |  | 
+| 15 | [Zero To The End](/EverydayCoding/0015_zero_to_the_end.py) | AlgoDaily |  | 
 
 
 
