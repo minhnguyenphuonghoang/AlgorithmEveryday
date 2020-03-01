@@ -44,6 +44,7 @@ All algorithms including:
 | 14 | [Max Of Min Pairs](/EverydayCoding/0014_max_of_min_pairs.py) | AlgoDaily |  | 
 | 15 | [Zero To The End](/EverydayCoding/0015_zero_to_the_end.py) | AlgoDaily |  | 
 | 16 | [Merge Intervals](/EverydayCoding/0016_merge_intervals.py) | AlgoDaily |  | 
+| 17 | [Ice-cream Parlor](/EverydayCoding/0017_icecream_parlor.py) | HackerRank Team |  | 
 
 
 
